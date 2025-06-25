@@ -1,0 +1,8 @@
+github使用：
+GitHub上传文件步骤
+1.进入目标文件
+2.git init 
+3.git add .
+4. git commit -m "硅谷电商后台(要提示的东西)"
+5.如果本地是 master，远程仓库默认是 main，可以强制“让本地 master 对应远程 main
+git push -u origin master:main  
